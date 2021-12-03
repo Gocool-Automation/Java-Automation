@@ -1,0 +1,4 @@
+01, Infosys, 10000
+02, Wipro, 8000
+03, CTS, 12000
+04, Accenture, 15000
