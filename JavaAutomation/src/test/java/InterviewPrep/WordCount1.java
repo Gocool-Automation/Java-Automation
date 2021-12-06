@@ -9,6 +9,7 @@ public class WordCount1 {
 		Scanner in = new Scanner(System.in);
 		System.out.print("Enter the input string to count the words: ");
 		String str = in.nextLine();
+		in.close();
 
 		System.out.println("Total words in the given input string is: " + wordCount(str) + "\n");
 

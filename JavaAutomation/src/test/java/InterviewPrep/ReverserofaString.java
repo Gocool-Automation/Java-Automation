@@ -8,6 +8,7 @@ public class ReverserofaString {
 		Scanner s= new Scanner(System.in);
 		System.out.print("Enter a String:: ");
 		String str = s.nextLine();
+		s.close();
 		System.out.println("Reverse of the String is = " + StrReverse(str));
 		
 

@@ -6,9 +6,9 @@ public class nFactorial {
 
 	public static void main(String[] args) {
 		System.out.print("Enter any Integer number: ");
-		@SuppressWarnings("resource")
 		Scanner input = new Scanner(System.in);
 		int num = input.nextInt();
+		input.close();
 		System.out.println("Factorial of " + num + " is :: " + factorial(num));
 	}
 	

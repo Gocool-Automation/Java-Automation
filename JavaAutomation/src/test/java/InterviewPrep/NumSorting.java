@@ -12,6 +12,7 @@ public class NumSorting {
 		int number1 = input.nextInt();
 		int number2 = input.nextInt();
 		int number3 = input.nextInt();
+		input.close();
 		int temp;
 		if(number1 > number2) {
 			temp = number1;
