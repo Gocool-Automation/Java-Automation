@@ -1,4 +1,4 @@
-package InterviewPrep;
+package JavaInterviewPrograms;
 
 import java.util.Arrays;
 import java.util.Collections;

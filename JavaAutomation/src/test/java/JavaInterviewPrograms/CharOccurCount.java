@@ -1,4 +1,4 @@
-package InterviewPrep;
+package JavaInterviewPrograms;
 
 public class CharOccurCount {
 

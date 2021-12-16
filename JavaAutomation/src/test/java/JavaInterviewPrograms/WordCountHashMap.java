@@ -1,4 +1,4 @@
-package InterviewPrep;
+package JavaInterviewPrograms;
 
 import java.util.HashMap;
 import java.util.Map;
